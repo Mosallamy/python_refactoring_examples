@@ -1,4 +1,4 @@
-def printOwing(self):
+def printTest(self):
     self.printBanner()
     self.printDetails(self.getOutstanding())
 
