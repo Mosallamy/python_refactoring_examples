@@ -1,6 +1,6 @@
 class Test:
-  def printThis():
+  def printThat():
     return 1
   
-  def hello():
+  def sum():
     return 1
