@@ -1,7 +1,8 @@
 class Test:
     def printOwing(selfObject):
         selfObject.printBanner()
+        selfObject.printDetails(selfObject.getOutstanding())
 
-        # print details
+    def printDetails(selfObject, outstanding):
         print("name:", selfObject.name)
-        print("amount:", selfObject.getOutstanding())
+        print("amount:", outstanding)
