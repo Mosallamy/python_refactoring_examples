@@ -1,2 +1,2 @@
-def New2Ne():
+def New2Neqqqq():
     return 30
