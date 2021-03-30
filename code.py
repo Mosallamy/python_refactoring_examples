@@ -1,7 +1,7 @@
-def printTest(self):
+class Test:
+    def printOwing(self):
     self.printBanner()
-    self.printDetails(self.getOutstanding())
 
-def printDetails(self, outstanding):
+    # print details
     print("name:", self.name)
-    print("amount:", outstanding)
+    print("amount:", self.getOutstanding())
