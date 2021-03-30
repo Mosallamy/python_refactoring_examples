@@ -1,2 +1,2 @@
-def sumqqqq():
+def sum():
     return 1
