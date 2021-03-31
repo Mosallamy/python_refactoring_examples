@@ -1,3 +1,3 @@
 class Test:
-  def sum():
+  def sumsss():
     return 1
