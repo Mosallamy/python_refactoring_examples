@@ -1,3 +1,3 @@
 class Test:
-  def sumsss():
+  def newwww():
     return 1
